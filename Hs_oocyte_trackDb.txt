@@ -1,0 +1,330 @@
+track GV1y
+shortLabel GV1y
+longLabel young_adult_GV1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV1y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,139,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV2y
+shortLabel GV2y
+longLabel young_adult_GV2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV2y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,139,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV3y
+shortLabel GV3y
+longLabel young_adult_GV3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV3y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,139,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV4y
+shortLabel GV4y
+longLabel young_adult_GV4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV4y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,139,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV5y
+shortLabel GV5y
+longLabel young_adult_GV5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV5y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,139,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII1y
+shortLabel MII1y
+longLabel young_adult_MII1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII1y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 153,50,204 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII2y
+shortLabel MII2y
+longLabel young_adult_MII2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII2y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 153,50,204 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII3y
+shortLabel MII3y
+longLabel young_adult_MII3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII3y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 153,50,204 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII5y
+shortLabel MII5y
+longLabel young_adult_MII5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII5y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 153,50,204 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII6y
+shortLabel MII6y
+longLabel young_adult_MII6
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII6y_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 153,50,204 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV1mat
+shortLabel GV1mat
+longLabel mature_adult_GV1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV1mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 199,21,133 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV2mat
+shortLabel GV2mat
+longLabel mature_adult_GV2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV2mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 199,21,133 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV3mat
+shortLabel GV3mat
+longLabel mature_adult_GV3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV3mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 199,21,133 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV4mat
+shortLabel GV4mat
+longLabel mature_adult_GV4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV4mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 199,21,133 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track GV5mat
+shortLabel GV5mat
+longLabel mature_adult_GV5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/GV5mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 199,21,133 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII1mat
+shortLabel MII1mat
+longLabel mature_adult_MII1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII1mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,0,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII2mat
+shortLabel MII2mat
+longLabel mature_adult_MII2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII2mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,0,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII3mat
+shortLabel MII3mat
+longLabel mature_adult_MII3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII3mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,0,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII4mat
+shortLabel MII4mat
+longLabel mature_adult_MII44
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII4mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,0,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII5mat
+shortLabel MII5mat
+longLabel mature_adult_MII5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII5mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,0,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII6mat
+shortLabel MII6mat
+longLabel mature_adult_MII6
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII6mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,0,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track MII7mat
+shortLabel MII7mat
+longLabel mature_adult_MII7
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/hub/MII7mat_scaled.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility full
+alwaysZero on
+autoScale on
+color 0,0,139 
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+

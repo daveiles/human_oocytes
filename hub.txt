@@ -1,0 +1,6 @@
+hub hg38oocyteHub
+shortLabel human oocyte transcription
+longLabel scRNA-seq on young adult and mature human oocytes
+genomesFile genomes.txt
+email daveiles@omicsltd.com
+descriptionUrl
